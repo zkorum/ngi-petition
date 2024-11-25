@@ -2,6 +2,9 @@
 
 Signed here on behalf of ZKorum SAS: https://pad.public.cat/lettre-NCP-NGI
 
+Shared on social media:
+- https://www.linkedin.com/feed/update/urn:li:activity:7266752491474542592/
+
 ## The European Union must keep funding free software
 
 Initially published by [petites singularités](https://ps.zoethical.org/pub/lettre-publique-aux-ncp-au-sujet-de-ngi/). English translation provided by [OW2](https://www.ow2.org/view/Events/The_European_Union_must_keep_funding_free_software_open_letter).
