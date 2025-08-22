@@ -1,6 +1,6 @@
 # NGI Petition
 
-Signed here on behalf of ZKorum SAS: https://pad.public.cat/lettre-NCP-NGI
+Signed here on behalf of ZKorum SAS: ~~https://pad.public.cat/lettre-NCP-NGI~~ < the original link is constantly hijacked...
 
 Shared on social media:
 - https://www.linkedin.com/feed/update/urn:li:activity:7266752491474542592/
